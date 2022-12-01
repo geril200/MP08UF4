@@ -162,7 +162,10 @@ shh gprades@192.168.203.224
 
 ![image](https://user-images.githubusercontent.com/114162463/205090776-9d3d55dd-6df9-49f0-832a-0da1a6dc3f70.png)
 
-38. 
+38. Ja estarem dins.
+
+![image](https://user-images.githubusercontent.com/114162463/205091166-96cf911e-effe-458b-ac51-be87414d7209.png)
+
 
 
 
