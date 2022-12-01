@@ -36,8 +36,7 @@ shh gprades@192.168.203.224
 
 8. Instal·larem el php7.3. Per fer-ho haurem d'instal·lar diferents coses.
 
-![1](11.png)
-![1](11.1.png)
+![image](https://user-images.githubusercontent.com/114162463/205082569-c24abb28-7716-4736-a5e3-4fffc9b5c055.png)
 
 
 9. Seguidament editarem el següent fitxer per a que ens mostre index.php enves de index.html.
