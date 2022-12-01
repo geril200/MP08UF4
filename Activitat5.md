@@ -128,4 +128,41 @@ shh gprades@192.168.203.224
 
 ![image](https://user-images.githubusercontent.com/114162463/205079619-4d4f1db1-4145-45fa-a081-68580abfada3.png)
 
-30. 
+30. Instal·larem el php7.3-xml
+
+![image](https://user-images.githubusercontent.com/114162463/205085557-4356fb2b-b14b-4429-ab4f-81c8a4c80e12.png)
+
+31. Reiniciarem el servidor.
+
+![image](https://user-images.githubusercontent.com/114162463/205085710-e34f8799-a9d5-4006-8904-02ac3f2aee18.png)
+
+32. Posarem continuar.
+
+![image](https://user-images.githubusercontent.com/114162463/205085859-91698682-62b9-499f-b735-d957521c5f0a.png)
+
+33. Ens diu que ens falten moduls per instal·lar per tant els instal·larem tots per si acas
+
+![image](https://user-images.githubusercontent.com/114162463/205086115-73b7d726-8c61-40e8-881f-4fd1f5c6e28f.png)
+![image](https://user-images.githubusercontent.com/114162463/205086226-e4e9462a-a2d6-4dab-a480-a7eb9f798b84.png)
+
+34. Reinicarem el servidor 
+
+![image](https://user-images.githubusercontent.com/114162463/205086680-1f8f0c43-e644-4da9-84ec-54203486c466.png)
+
+35. Ho tindrem tot perfecte
+
+![image](https://user-images.githubusercontent.com/114162463/205086763-cb2696c5-339a-45cc-8047-15752c2b1a29.png)
+
+36. Aquí posarem les nostres dades
+
+![image](https://user-images.githubusercontent.com/114162463/205089215-b83550a2-d32c-44d1-b25e-0ee5625d9e29.png)
+![image](https://user-images.githubusercontent.com/114162463/205089857-6b7e841e-6f4c-4576-a989-2b59229e4dab.png)
+
+37. Ara li posarem més paràmetres.
+
+![image](https://user-images.githubusercontent.com/114162463/205090776-9d3d55dd-6df9-49f0-832a-0da1a6dc3f70.png)
+
+38. 
+
+
+
