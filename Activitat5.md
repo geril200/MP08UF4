@@ -121,5 +121,8 @@ shh gprades@192.168.203.224
 
 ![image](https://user-images.githubusercontent.com/114162463/205078725-087806cf-0976-44e5-987a-d37790a6283b.png)
 
-28. 
+28. Ens demanarà la base de dades que hem utilitzat, en el nostre cas és MariaDB
+
+![image](https://user-images.githubusercontent.com/114162463/205079178-70371d6b-1c6d-4b42-8761-07c1be441a29.png)
+
 
