@@ -96,3 +96,30 @@ shh gprades@192.168.203.224
 ![1](26.png)
 ![1](27.png)
 
+22. Escollirem l'idioma català.
+
+![1](28.png)
+
+23. Ens sortiràn aquests errors i els haurem de solucionar.
+
+![1](29.png)
+
+24. Entrarem al directori /var/www/html/moodle i instal·larem el php 7.3
+
+![1](30.png)
+
+25. Farem el mateix per al zip
+
+![image](https://user-images.githubusercontent.com/114162463/205077549-89727dc9-7ca2-45cd-89e5-99b5b44c554e.png)
+![image](https://user-images.githubusercontent.com/114162463/205077739-5ce14d21-bbc0-4f38-bbe7-26f29d335628.png)
+
+26. Tornarem a recargar el servidor
+
+![image](https://user-images.githubusercontent.com/114162463/205077966-32bc781f-ccfd-459c-ac1d-6aa02bbc6cf1.png)
+
+27. Ja estarem dins i ens demanarà que li possesim el directori de dades, en el meu cas li posarem /home/moodle
+
+![image](https://user-images.githubusercontent.com/114162463/205078725-087806cf-0976-44e5-987a-d37790a6283b.png)
+
+28. 
+
