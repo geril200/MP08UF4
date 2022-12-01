@@ -125,4 +125,8 @@ shh gprades@192.168.203.224
 
 ![image](https://user-images.githubusercontent.com/114162463/205079178-70371d6b-1c6d-4b42-8761-07c1be441a29.png)
 
+29. Posarem els paràmetres que ens demana la base de dades.
 
+![image](https://user-images.githubusercontent.com/114162463/205079619-4d4f1db1-4145-45fa-a081-68580abfada3.png)
+
+30. 
