@@ -32,6 +32,10 @@ Per fer una subcategoria farem clic a aquesta icona i posarem "Crea una subcateg
 ![image](https://user-images.githubusercontent.com/114162463/207903019-cf6afe26-d78d-45ff-b626-57a25d1d298e.png)
 ![image](https://user-images.githubusercontent.com/114162463/207903271-63d12ee2-0d18-4524-bd64-696388e98cdb.png)
 
+A part baixarem una mica i crearem un curs general que és dirà "Família Informàtica i Comunicacions":
+
+![image](https://user-images.githubusercontent.com/114162463/207904072-4d63d6c5-8c62-410d-b476-07eeb524bae6.png)
+
 Per acabar anirem a "2n Curs":
 
 ![image](https://user-images.githubusercontent.com/114162463/207903441-9fdcf521-943a-42e7-ac23-9cd826afb095.png)
