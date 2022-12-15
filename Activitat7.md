@@ -33,7 +33,13 @@ Cada un té una llista de permisos, que són les accions que els usuaris poden e
 
 5. Crea tres usuaris:
   - Un Professor anomenat Cognom_1_profe.
+
+![image](https://user-images.githubusercontent.com/114162463/207906781-dcdb38c7-db8d-4108-bbf9-f02255949cb6.png)
+
   - Un Professor anomenat Cognom_2_profe.
+
+
+
   - Un professor No editor anomenat Cognom_3_profe.
 6.  Crea un alumne anomenat Cognom_1_alumne.
 7.  Afegeix un fitxer d'usuaris des de fitxer (4 companys/es de classe) simultàniament carregant un fitxer de dades, com es veu a la imatge.
