@@ -184,11 +184,24 @@ A les captures de dalt es pot veure
 
 ![image](https://user-images.githubusercontent.com/114162463/208132455-1548e608-8710-46f9-b76b-0f03dc40d052.png)
 
+## 11. Què són les Cohorts? 
+
+Són els grups del lloc o de tota una categoria de cursos.
+
+## 12. Perquè serveixen?
+
+Serveixen per a que tots els membres del cohorts puguin ser inscrits facilment en un curs.
+
+## 13. Què són els grups?
+
+Serveixen per si ets un professor puguis crear i gestionar les aules virtuals dins d'un curs.
+
+Aquesta opció de Moodle permet a un professor crear i gestionar “aules virtuals” dins l‟espai d‟un curs.
+
+## 14. Perquè serveixen?
+
+Serveixen per a organitzar els estudiants en diversos grups de manera que ho tindrem més ordenat durant el temps que els estudiants estiguin treballant.
+
+## 15. Fes dos grups de Aplicacions Web, el A i el B. Mostra els dos grups.
 
 
-
-16. Què són les Cohorts? 
-17. Perquè serveixen?
-18. Què són els grups?
-19. Perquè serveixen?
-20. Fes dos grups de Aplicacions Web, el A i el B. Mostra els dos grups.
