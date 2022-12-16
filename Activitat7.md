@@ -48,6 +48,32 @@ Primer que tot entrarem aquí:
 
 #### Això ho farem amb el profe 2 i profe 3
 
+Per al profe 3 li crearem un rol. Per fer-ho anirem aquí:
+
+![image](https://user-images.githubusercontent.com/114162463/208125906-839c7eea-a05f-4e47-863c-b6800c737fd8.png)
+
+![image](https://user-images.githubusercontent.com/114162463/208125937-7f75908b-9ec2-419a-a3fa-2d237238e030.png)
+
+![image](https://user-images.githubusercontent.com/114162463/208126004-7db28097-d820-49ac-b700-a61dd302a0e6.png)
+
+![image](https://user-images.githubusercontent.com/114162463/208126026-fb4703b3-ead6-417b-839b-fa638d8da647.png)
+
+![image](https://user-images.githubusercontent.com/114162463/208126262-26659e50-5b18-4c9c-aaf2-14fa237be55a.png)
+
+I guardarem. Ara li assignarem al profe 3:
+
+![image](https://user-images.githubusercontent.com/114162463/208126520-2a516dd8-d249-4998-bb6f-d4076185f6c3.png)
+
+![image](https://user-images.githubusercontent.com/114162463/208126546-dde32db9-d8b9-4946-96b9-0de312ed51c3.png)
+
+![image](https://user-images.githubusercontent.com/114162463/208126594-67a77cb5-41ca-46fc-a8a6-6c6c867c9fa2.png)
+
+![image](https://user-images.githubusercontent.com/114162463/208126640-86f1c58a-a132-44e8-bc63-77bc92f96122.png)
+
+![image](https://user-images.githubusercontent.com/114162463/208126675-c47b7f28-564d-4a7e-941c-1c98c5b91b6b.png)
+
+![image](https://user-images.githubusercontent.com/114162463/208126743-af5f54c7-9be6-494b-8375-4c0277ce2747.png)
+
 ## 4.  Crea un alumne anomenat Cognom_1_alumne.
 
 Primer que tot entrarem aquí:
@@ -85,12 +111,49 @@ Finalment lo donarem a "Continuar" i ja ho tindrem:
 ![image](https://user-images.githubusercontent.com/114162463/208123012-3e4db85d-48d3-434e-b847-af4515b99c26.png)
 
 6. Fes que Cognom_1_profe sigui professor dels cursos: MP04, MP12, MP08 i MP07.
-7. Fes que Cognom_2_profe sigui professor dels cursos: MP10, MP06 i TUTORIA.
-8. Fes que Cognom_3_profe sigui professor de tots els cursos.
-9. Afegeix a tots els alumnes a tots els cursos (els 5).
-10. Mostra l'apartat Participants de cada curs.
-11. Què són les Cohorts? 
-12. Perquè serveixen?
-13. Què són els grups?
-14. Perquè serveixen?
-15. Fes dos grups de Aplicacions Web, el A i el B. Mostra els dos grups.
+
+Primer que tot, crearem els grups de cada classe. Per fer-ho anirem aquí:
+
+![image](https://user-images.githubusercontent.com/114162463/208124052-6d2b83bd-f648-4090-be9b-0e353241ea1b.png)
+
+![image](https://user-images.githubusercontent.com/114162463/208124063-6992f777-659d-4000-be94-7bc2f0c8d322.png)
+
+![image](https://user-images.githubusercontent.com/114162463/208124098-118337ba-1bf7-478d-846c-18880c14042e.png)
+
+![image](https://user-images.githubusercontent.com/114162463/208124141-db29e67f-e9f2-4b2a-b7dd-d535671f1fb1.png)
+
+![image](https://user-images.githubusercontent.com/114162463/208124190-cd0de385-f803-4d9e-9c5b-3a6f53849825.png)
+
+![image](https://user-images.githubusercontent.com/114162463/208124590-5047f770-89e6-487c-b546-ae836df1a797.png)
+
+![image](https://user-images.githubusercontent.com/114162463/208124623-d74cdd3e-2502-4a98-938a-197fb9f2a2ad.png)
+
+![image](https://user-images.githubusercontent.com/114162463/208124020-2fc4569b-c06d-47cd-afa7-e4aae83ff67c.png)
+
+Ara ho assignarem:
+
+![image](https://user-images.githubusercontent.com/114162463/208124870-b27e76fa-2caa-4c82-97a2-6914507c916c.png)
+
+8. Fes que Cognom_2_profe sigui professor dels cursos: MP10, MP06 i TUTORIA.
+
+![image](https://user-images.githubusercontent.com/114162463/208125010-e9193742-c337-4b36-a3af-80286dffc6e4.png)
+
+10. Fes que Cognom_3_profe sigui professor de tots els cursos.
+
+![image](https://user-images.githubusercontent.com/114162463/208125100-bc4144d4-2938-48c6-b500-6b26ca66a99e.png)
+
+12. Afegeix a tots els alumnes a tots els cursos (els 5).
+
+![image](https://user-images.githubusercontent.com/114162463/208125270-1d017c45-f95e-459c-baeb-65d9ab3a11d5.png)
+
+![image](https://user-images.githubusercontent.com/114162463/208125427-19ec67b3-dffe-4ad6-9159-23f9c7f00bec.png)
+
+14. Mostra l'apartat Participants de cada curs.
+
+
+
+16. Què són les Cohorts? 
+17. Perquè serveixen?
+18. Què són els grups?
+19. Perquè serveixen?
+20. Fes dos grups de Aplicacions Web, el A i el B. Mostra els dos grups.
