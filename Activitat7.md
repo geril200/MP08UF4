@@ -82,7 +82,7 @@ I posarem una coma a Delimitador CSV:
 
 Finalment lo donarem a "Continuar" i ja ho tindrem:
 
-![image](https://user-images.githubusercontent.com/114162463/208122583-eb7be4c4-a091-4386-85d6-c12a955d9db8.png)
+![image](https://user-images.githubusercontent.com/114162463/208123012-3e4db85d-48d3-434e-b847-af4515b99c26.png)
 
 6. Fes que Cognom_1_profe sigui professor dels cursos: MP04, MP12, MP08 i MP07.
 7. Fes que Cognom_2_profe sigui professor dels cursos: MP10, MP06 i TUTORIA.
