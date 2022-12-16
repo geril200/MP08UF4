@@ -204,4 +204,21 @@ Serveixen per a organitzar els estudiants en diversos grups de manera que ho tin
 
 ## 15. Fes dos grups de Aplicacions Web, el A i el B. Mostra els dos grups.
 
+Primer que tot anirem aquí:
+
+![image](https://user-images.githubusercontent.com/114162463/208137829-b548929d-9101-4e6d-8c16-aa8ed32efadf.png)
+
+![image](https://user-images.githubusercontent.com/114162463/208137862-572694c3-f7b2-460d-88d1-012a1df52c80.png)
+
+![image](https://user-images.githubusercontent.com/114162463/208137900-87d5b15d-f192-428e-b5c2-45eee0bcb797.png)
+
+![image](https://user-images.githubusercontent.com/114162463/208137929-0d33bb13-95f2-4955-9022-e47cc8e491a6.png)
+
+![image](https://user-images.githubusercontent.com/114162463/208137978-40a76746-70ff-457b-92a3-329fccdfd597.png)
+
+![image](https://user-images.githubusercontent.com/114162463/208138032-466333b7-59a0-40b9-95bf-0aeadabfc004.png)
+
+![image](https://user-images.githubusercontent.com/114162463/208138068-0e17f9d9-f4ab-4069-9752-7a910b3aba4c.png)
+
+
 
