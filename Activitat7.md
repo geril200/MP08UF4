@@ -132,7 +132,7 @@ Primer que tot, crearem els grups de cada classe. Per fer-ho anirem aquí:
 
 ![image](https://user-images.githubusercontent.com/114162463/208124623-d74cdd3e-2502-4a98-938a-197fb9f2a2ad.png)
 
-![image](https://user-images.githubusercontent.com/114162463/208124020-2fc4569b-c06d-47cd-afa7-e4aae83ff67c.png)
+![image](https://user-images.githubusercontent.com/114162463/208128501-8d083caa-8faa-4943-a591-177471e7642a.png)
 
 Ara ho assignarem:
 
@@ -140,19 +140,44 @@ Ara ho assignarem:
 
 ## 7. Fes que Cognom_2_profe sigui professor dels cursos: MP10, MP06 i TUTORIA.
 
-![image](https://user-images.githubusercontent.com/114162463/208125010-e9193742-c337-4b36-a3af-80286dffc6e4.png)
+#### MP04
+
+![image](https://user-images.githubusercontent.com/114162463/208133151-e550dcd9-70a4-4f46-b01a-bfa699216236.png)
+
+![image](https://user-images.githubusercontent.com/114162463/208133184-8f459059-24ea-4c2a-a525-2e7f6c2ba965.png)
+
+![image](https://user-images.githubusercontent.com/114162463/208133406-a6b0b7c4-90a7-4998-aeef-6c933af25df5.png)
+
+#### MP06
+
+![image](https://user-images.githubusercontent.com/114162463/208133707-2b15743a-1373-4955-bd54-981882d5322a.png)
+
+#### MP07
+
+![image](https://user-images.githubusercontent.com/114162463/208133799-5634f024-1d2a-4bc5-b97f-c4e4d463e461.png)
+
+#### MP08
+
+![image](https://user-images.githubusercontent.com/114162463/208133875-2eb9f91d-5116-4329-a865-13d15da73772.png)
+
+#### MP10
+
+![image](https://user-images.githubusercontent.com/114162463/208133989-4e09033a-8adc-4ebd-bcd2-277f5c847f9e.png)
+
+#### MP12
+
+![image](https://user-images.githubusercontent.com/114162463/208134082-66888f44-7382-4a9e-a959-43b6a11e0d6a.png)
+
+#### TUTORIA
+
+![image](https://user-images.githubusercontent.com/114162463/208134210-9254cc8b-1fe7-4d6b-9d3e-f991b20d2d41.png)
 
 ## 8. Fes que Cognom_3_profe sigui professor de tots els cursos.
-
-![image](https://user-images.githubusercontent.com/114162463/208125100-bc4144d4-2938-48c6-b500-6b26ca66a99e.png)
-
 ## 9. Afegeix a tots els alumnes a tots els cursos (els 5).
-
-![image](https://user-images.githubusercontent.com/114162463/208125270-1d017c45-f95e-459c-baeb-65d9ab3a11d5.png)
-
-![image](https://user-images.githubusercontent.com/114162463/208125427-19ec67b3-dffe-4ad6-9159-23f9c7f00bec.png)
-
 ## 10. Mostra l'apartat Participants de cada curs.
+
+![image](https://user-images.githubusercontent.com/114162463/208132455-1548e608-8710-46f9-b76b-0f03dc40d052.png)
+
 
 
 
