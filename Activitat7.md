@@ -110,7 +110,7 @@ Finalment lo donarem a "Continuar" i ja ho tindrem:
 
 ![image](https://user-images.githubusercontent.com/114162463/208123012-3e4db85d-48d3-434e-b847-af4515b99c26.png)
 
-6. Fes que Cognom_1_profe sigui professor dels cursos: MP04, MP12, MP08 i MP07.
+## 6. Fes que Cognom_1_profe sigui professor dels cursos: MP04, MP12, MP08 i MP07.
 
 Primer que tot, crearem els grups de cada classe. Per fer-ho anirem aquí:
 
@@ -134,21 +134,21 @@ Ara ho assignarem:
 
 ![image](https://user-images.githubusercontent.com/114162463/208124870-b27e76fa-2caa-4c82-97a2-6914507c916c.png)
 
-8. Fes que Cognom_2_profe sigui professor dels cursos: MP10, MP06 i TUTORIA.
+## 7. Fes que Cognom_2_profe sigui professor dels cursos: MP10, MP06 i TUTORIA.
 
 ![image](https://user-images.githubusercontent.com/114162463/208125010-e9193742-c337-4b36-a3af-80286dffc6e4.png)
 
-10. Fes que Cognom_3_profe sigui professor de tots els cursos.
+## 8. Fes que Cognom_3_profe sigui professor de tots els cursos.
 
 ![image](https://user-images.githubusercontent.com/114162463/208125100-bc4144d4-2938-48c6-b500-6b26ca66a99e.png)
 
-12. Afegeix a tots els alumnes a tots els cursos (els 5).
+## 9. Afegeix a tots els alumnes a tots els cursos (els 5).
 
 ![image](https://user-images.githubusercontent.com/114162463/208125270-1d017c45-f95e-459c-baeb-65d9ab3a11d5.png)
 
 ![image](https://user-images.githubusercontent.com/114162463/208125427-19ec67b3-dffe-4ad6-9159-23f9c7f00bec.png)
 
-14. Mostra l'apartat Participants de cada curs.
+## 10. Mostra l'apartat Participants de cada curs.
 
 
 
