@@ -173,7 +173,13 @@ Ara ho assignarem:
 ![image](https://user-images.githubusercontent.com/114162463/208134210-9254cc8b-1fe7-4d6b-9d3e-f991b20d2d41.png)
 
 ## 8. Fes que Cognom_3_profe sigui professor de tots els cursos.
+
+A les captures de dalt es pot veure
+
 ## 9. Afegeix a tots els alumnes a tots els cursos (els 5).
+
+A les captures de dalt es pot veure
+
 ## 10. Mostra l'apartat Participants de cada curs.
 
 ![image](https://user-images.githubusercontent.com/114162463/208132455-1548e608-8710-46f9-b76b-0f03dc40d052.png)
