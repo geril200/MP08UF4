@@ -74,6 +74,10 @@ I guardarem. Ara li assignarem al profe 3:
 
 ![image](https://user-images.githubusercontent.com/114162463/208126743-af5f54c7-9be6-494b-8375-4c0277ce2747.png)
 
+Als altres professors li posarem el rol de profe que ve posat per defecte:
+
+![image](https://user-images.githubusercontent.com/114162463/208127277-75175f31-3612-4cc6-8719-38950107ebc8.png)
+
 ## 4.  Crea un alumne anomenat Cognom_1_alumne.
 
 Primer que tot entrarem aquí:
