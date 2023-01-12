@@ -2,9 +2,52 @@
 
 ![image](https://user-images.githubusercontent.com/110727546/207070729-91000a9b-782a-43ed-8f50-344d9db3ad3f.png)
 
+![image](https://user-images.githubusercontent.com/114162463/212103500-e4053ad7-2ea6-4680-86da-a127229781b3.png)
+
 - Entra a un usuari de Moodle i personalitza el seu perfil amb una imatge.
+
+Primer de tot anirem a "Edita el perfil"
+
+![image](https://user-images.githubusercontent.com/114162463/212103851-b7c030e9-dc87-4ee5-aae4-6f0a46e526cb.png)
+
+Baixarem fins a baix i posarem una imatge de perfil.
+
+![image](https://user-images.githubusercontent.com/114162463/212104068-e701f67e-d5e6-4238-a717-615161aeb300.png)
+
+I ja estarà fet:
+
+![image](https://user-images.githubusercontent.com/114162463/212104495-dc6de6be-deae-4a0c-a549-aa4ebd061fd5.png)
+
+
 - Canvia la seva contrasenya.
+
+Tornarem a "Preferencias" i anirem a canviar contrasenya:
+
+![image](https://user-images.githubusercontent.com/114162463/212105237-d90b30a7-0afa-4ad9-b5f0-401f830a77a9.png)
+
+I la canviarem:
+
+![image](https://user-images.githubusercontent.com/114162463/212105461-e20eb577-9611-4cdc-bd41-a05058909087.png)
+
+Ja l'hem canviat:
+
+![image](https://user-images.githubusercontent.com/114162463/212105857-2070c915-75ef-44f1-98ff-1202976286d0.png)
+
+
 - Canvia el seu idioma preferit a anglès.
+
+Anirem a "Preferencias" i posarem "idioma preferit":
+
+![image](https://user-images.githubusercontent.com/114162463/212108450-0340064f-9005-4d56-9bd8-dae8e5793d23.png)
+
+Canviarem a "English":
+
+![image](https://user-images.githubusercontent.com/114162463/212108897-7ac412b5-07fb-47b6-a161-3580f7bb315e.png)
+
+Desarem els canvis i ja ho tindrem amb angles:
+
+![image](https://user-images.githubusercontent.com/114162463/212109012-85aa2cb3-b712-4ce8-81f8-1e4947d69e40.png)
+
 - Oculta el seu mail a usuaris sense permisos.
 - Canvia el primer dia de la setmana del calendari a Diumenge.
 - Fes que només els contactes de l'usuari puguin enviar-li missatges.
