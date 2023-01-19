@@ -93,17 +93,106 @@ Allí ho posarem:
 ![image](https://user-images.githubusercontent.com/114162463/213470439-4dce3144-024f-4f2e-a3fa-29200128363d.png)
 
 - Crea un fòrum general de dubtes (el d'anuncis no serveix).
+
+![image](https://user-images.githubusercontent.com/114162463/213471769-908bb4b2-2ceb-43dc-8623-b188443668e6.png)
+
+![image](https://user-images.githubusercontent.com/114162463/213471926-b83843d2-6263-4ba0-9e2c-2f798cf2166d.png)
+
 - Fes que dos estudiants fassin consultes al fòrum.
+
+![image](https://user-images.githubusercontent.com/114162463/213474697-ed14fbae-9426-4e55-9113-d2b36171e433.png)
+
+![image](https://user-images.githubusercontent.com/114162463/213474764-6ec8ed11-75b3-4ca8-a548-175e84611b91.png)
+
+![image](https://user-images.githubusercontent.com/114162463/213474966-46658f67-6c6d-4ee2-bf51-b7c301e2daa1.png)
+
+![image](https://user-images.githubusercontent.com/114162463/213475083-08c95748-36fa-4395-9bc2-798618f6cd41.png)
+
+![image](https://user-images.githubusercontent.com/114162463/213475142-8457387c-2994-4e77-b440-2cb8731101eb.png)
+
+![image](https://user-images.githubusercontent.com/114162463/213475198-1a4ae981-33be-449e-ac05-8ef320860022.png)
+
+![image](https://user-images.githubusercontent.com/114162463/213475286-023093c3-05ac-4042-b85c-9499b7ae049c.png)
+
+![image](https://user-images.githubusercontent.com/114162463/213475429-3dfe6ef4-1b9b-424f-bb07-bc313fe3b59c.png)
+
+![image](https://user-images.githubusercontent.com/114162463/213475465-8d4a6204-1c28-46ba-9bd9-8a857192c426.png)
+
+![image](https://user-images.githubusercontent.com/114162463/213475598-20d2c1ae-697b-49cf-9663-fac23207c8a6.png)
+
 - Contesta les preguntes amb un perfil de professor.
+
+![image](https://user-images.githubusercontent.com/114162463/213475862-900aa9e1-7b25-4fc4-83ab-0997a18c6af8.png)
+
+![image](https://user-images.githubusercontent.com/114162463/213475942-76aa7655-6534-4bd0-8f7f-b3064aede151.png)
+
+![image](https://user-images.githubusercontent.com/114162463/213476075-e28cc1f2-3fcb-4895-b6f1-917e53543dea.png)
+
+![image](https://user-images.githubusercontent.com/114162463/213476099-42c7f8bd-768c-4c19-9900-dd43e606923b.png)
+
+![image](https://user-images.githubusercontent.com/114162463/213476165-6c4e66c8-9c58-4906-a300-383ad36379bd.png)
+
+![image](https://user-images.githubusercontent.com/114162463/213476197-10443940-6e98-4a54-b687-7517c3f1074d.png)
+
 - Crea un tema anomenat "Fonaments de Python".
+
+![image](https://user-images.githubusercontent.com/114162463/213478153-f741ba6a-6892-425e-8629-f6ae556e0a81.png)
+
 - Oculta la resta de temes del curs.
+
+![image](https://user-images.githubusercontent.com/114162463/213478233-cb59a413-0ca8-4758-bb62-9071aadd1fa4.png)
+
+![image](https://user-images.githubusercontent.com/114162463/213478306-37ad8576-e55f-4e7e-85a6-4df429c32abb.png)
+
 - Dins del tema crea una tasca anomenada prova inicial amb 10 preguntes molt bàsiques sobre Python. Pots trobar info [aqui](https://www.w3schools.com/python/).
+
+![image](https://user-images.githubusercontent.com/114162463/213478848-202aa5a5-f4e7-4e49-a78c-676921592cee.png)
+
+![image](https://user-images.githubusercontent.com/114162463/213486297-a0d62f39-f872-40b3-998d-8fcc543f3498.png)
+
 - Fes que els alumnes contestin la tasca (mínim 3).
+
+![image](https://user-images.githubusercontent.com/114162463/213486509-d5013bdd-3b4c-48de-ac89-fb48d7b4217f.png)
+
+![image](https://user-images.githubusercontent.com/114162463/213486549-5e8b80d0-c058-4343-b67c-dd9f3ee42d91.png)
+
+![image](https://user-images.githubusercontent.com/114162463/213488422-5d5c1c9b-3c5d-4194-b63a-52faa35acb13.png)
+
+![image](https://user-images.githubusercontent.com/114162463/213488771-5b8e23b5-a194-4bb3-861f-369d9b5c80af.png)
+
+![image](https://user-images.githubusercontent.com/114162463/213490001-6af790e3-5d9c-4c77-bd11-45d74f1d8a48.png)
+
+![image](https://user-images.githubusercontent.com/114162463/213491110-9ea104b5-328a-4738-99df-0938247496d1.png)
+
+![image](https://user-images.githubusercontent.com/114162463/213491175-3e4056d2-4829-4478-9a0a-5509b2af4af9.png)
+
 - Qualifica la tasca de l'alumnat.
+
+![image](https://user-images.githubusercontent.com/114162463/213492722-3a1931bd-d23d-4b65-88ab-4f06f7f2bc80.png)
+
+![image](https://user-images.githubusercontent.com/114162463/213493571-12c83a65-c28f-44e9-93bf-4a34b05fd9bf.png)
+
+![image](https://user-images.githubusercontent.com/114162463/213494450-5737017f-638f-43f5-8705-53bc5bf68447.png)
+
 - Mostra les qualificacions de l'alumnat.
+
+![image](https://user-images.githubusercontent.com/114162463/213494467-ec1e3345-3907-490c-b20f-a4a60f7bfcc4.png)
+
 - Com a perfil d'alumne mostra la teva qualificació.
+
+![image](https://user-images.githubusercontent.com/114162463/213494584-b901e9b3-0dfe-41f2-8d9d-78a992b185dc.png)
+
 - Crea una activitat de consulta amb una pregunta sobre què costa més a l'alumnat sobre el tema del curs amb 4 opcions.
+
+![image](https://user-images.githubusercontent.com/114162463/213494915-c04f96d1-5d9e-4433-9359-db76480fce81.png)
+
+![image](https://user-images.githubusercontent.com/114162463/213495187-7a6e3372-da5c-4d3d-9d6d-e158717cb3ed.png)
+
+![image](https://user-images.githubusercontent.com/114162463/213495241-71551e6e-17dd-4df8-bdfa-69a9162cd110.png)
+
 - Com a alumne/a contesta la consulta.
+
+
 - Com a professor mostra les contestacions de la consulta.
 
 # Seguretat del lloc:
