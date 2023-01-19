@@ -238,13 +238,6 @@ Allí ho posarem:
 
 El Guru dels temes de moodle e-Guru: el tema moodle ultra sensible amb un patró multicolor ara és gratuït al directori de complements de moodle. Té funcions impressionants que seran una opció adequada per als vostres centres educatius i ofereixen potents opcions de configuració de temes d'administració.
 
-![image](https://user-images.githubusercontent.com/114162463/213497437-ba982463-ceb6-48a3-9899-1bfcec3d3acb.png)
-
-![image](https://user-images.githubusercontent.com/114162463/213497547-8aad7755-906f-411c-add6-c04ac7f55a0c.png)
-
-
-
-![image](https://user-images.githubusercontent.com/114162463/213497742-93348ddc-0d92-4ba1-ad4b-f6c317125716.png)
 
 ![image](https://user-images.githubusercontent.com/114162463/213497809-87a96029-d582-4e50-b61a-17a68ccb4a91.png)
 
