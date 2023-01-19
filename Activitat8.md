@@ -49,14 +49,49 @@ Desarem els canvis i ja ho tindrem amb angles:
 ![image](https://user-images.githubusercontent.com/114162463/212109012-85aa2cb3-b712-4ce8-81f8-1e4947d69e40.png)
 
 - Oculta el seu mail a usuaris sense permisos.
+
+Per fer-ho anirem al perfil i editarem el perfil, allí li podrem posar:
+
+![image](https://user-images.githubusercontent.com/114162463/213466657-eeb5df4d-2f99-40c8-a80c-5c6f8f9f85c0.png)
+
 - Canvia el primer dia de la setmana del calendari a Diumenge.
+
+Anirem al perfil i farem clic a "Preferencies del calendari":
+
+![image](https://user-images.githubusercontent.com/114162463/213467936-a2b8ae3c-807b-45c8-98a3-25a42aa71326.png)
+
+I allí ho posarem:
+
+![image](https://user-images.githubusercontent.com/114162463/213468022-c4210626-a525-454a-8b65-933aae5928f4.png)
+
 - Fes que només els contactes de l'usuari puguin enviar-li missatges.
+
+Anirem al perfil i posarem "Preferencies dels missatges":
+
+![image](https://user-images.githubusercontent.com/114162463/213468323-bea46e1a-9c5c-440e-9aa1-766624142cc9.png)
+
+Allí ho posarem:
+
+![image](https://user-images.githubusercontent.com/114162463/213468418-569c2439-e149-432e-b723-d8dda7ee7821.png)
 
 # Cursos:
 
 - Crea un Curs nou anomenat "Programació amb Python" dins de la categoria 2n curs -> DAM.
+
+![image](https://user-images.githubusercontent.com/114162463/213469166-3612d908-67b9-43ed-b1a4-c0438436bcdc.png)
+
 - Inscriu a tots els alumnes al curs.
+
+![image](https://user-images.githubusercontent.com/114162463/213470074-cf893047-68c3-4ace-b202-50ac1209a8f7.png)
+
+![image](https://user-images.githubusercontent.com/114162463/213470114-70c459d3-a2df-4136-96b2-5761da93fd74.png)
+
+![image](https://user-images.githubusercontent.com/114162463/213470265-b24df87a-d9ce-46c7-8dd2-facf16a010e2.png)
+
 - Inscriu a tots els professors al curs.
+
+![image](https://user-images.githubusercontent.com/114162463/213470439-4dce3144-024f-4f2e-a3fa-29200128363d.png)
+
 - Crea un fòrum general de dubtes (el d'anuncis no serveix).
 - Fes que dos estudiants fassin consultes al fòrum.
 - Contesta les preguntes amb un perfil de professor.
