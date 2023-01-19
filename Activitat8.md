@@ -265,3 +265,9 @@ Vigila que sigui un tema suportat per la teva versió de Moodle:
 
 [Pàgina amb temes.](https://moodle.org/plugins/browse.php?list=category&id=3)
 [Com canviar el tema.](https://docs.moodle.org/24/en/Installing_a_new_theme)
+
+![image](https://user-images.githubusercontent.com/114162463/213505235-63ea6539-03e5-4385-b744-e12828e223d9.png)
+
+![image](https://user-images.githubusercontent.com/114162463/213505346-cf76c117-c589-4d0a-bf1b-09481494aabe.png)
+
+
