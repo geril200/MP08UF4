@@ -192,8 +192,15 @@ Allí ho posarem:
 
 - Com a alumne/a contesta la consulta.
 
+![image](https://user-images.githubusercontent.com/114162463/213495422-ecfb9401-8d5c-42bd-bc6b-de2537ea44ed.png)
+
+![image](https://user-images.githubusercontent.com/114162463/213495497-7b459d3f-f242-4b57-b05f-12d602f854f4.png)
 
 - Com a professor mostra les contestacions de la consulta.
+
+![image](https://user-images.githubusercontent.com/114162463/213495650-1f392a24-ad2b-4654-8eb6-70b9ebb58333.png)
+
+![image](https://user-images.githubusercontent.com/114162463/213495699-42c55a6e-9f31-4e36-89c0-315922ed88eb.png)
 
 # Seguretat del lloc:
 
