@@ -238,6 +238,9 @@ Allí ho posarem:
 
 El Guru dels temes de moodle e-Guru: el tema moodle ultra sensible amb un patró multicolor ara és gratuït al directori de complements de moodle. Té funcions impressionants que seran una opció adequada per als vostres centres educatius i ofereixen potents opcions de configuració de temes d'administració.
 
+![image](https://user-images.githubusercontent.com/114162463/213499149-92ab6623-d10b-4ed0-b14f-802a9bbaee2d.png)
+
+Academi és un tema intel·ligent i responsiu lliure de moodle, sempre adequat per a la vostra acadèmia. Academi és un tema modern i personalitzable per a totes les versions de Moodle compatibles.
 
 ![image](https://user-images.githubusercontent.com/114162463/213497809-87a96029-d582-4e50-b61a-17a68ccb4a91.png)
 
