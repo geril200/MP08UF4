@@ -208,14 +208,47 @@ Allí ho posarem:
 
 
 - Bloca una adreça IP d'un company per a que no pugui accedir al moodle i mostra-ho. VIGILA: Fica una adreça IP sencera si no bloquejaràs tota la xarxa, si us passa podeu arreglar-ho [així](https://moodle.org/mod/forum/discuss.php?d=323745).
+
+![image](https://user-images.githubusercontent.com/114162463/213496118-499f96e3-5b52-4413-b8fd-0afd0048dd18.png)
+
+![image](https://user-images.githubusercontent.com/114162463/213496287-7af2ff78-e71b-40d0-a23a-8ab9b0fcf7dc.png)
+
 - Canvia els paràmetres de les contrasenyes d'usuari per a que les contrasenyes:
   - Tinguin mínim 10 caràcters.
   - Tinguin 2 dígits.
   - Tinguin 3 maiúscules.
 
+![image](https://user-images.githubusercontent.com/114162463/213496543-187f7e97-af02-4eb8-ba8a-7e0ba3895523.png)
+
+![image](https://user-images.githubusercontent.com/114162463/213496668-357d6ed2-2003-4e09-a03a-1b815ffccb0a.png)
+
 # Plugins:
 
 - Instal·la 2 [plugins](https://moodle.org/plugins/) de Moodle i explica què fan.
+
+![image](https://user-images.githubusercontent.com/114162463/213496857-6317f8dc-7a04-4f7d-aaf0-05cbec04342a.png)
+
+![image](https://user-images.githubusercontent.com/114162463/213496971-a150a058-5975-4631-aa0f-fbbe5b5aeb06.png)
+
+![image](https://user-images.githubusercontent.com/114162463/213497068-28eed496-cc51-4c2a-af8e-0bbc8e04914e.png)
+
+![image](https://user-images.githubusercontent.com/114162463/213497104-3924ce59-7061-4121-ac52-3e1d9c0189b7.png)
+
+![image](https://user-images.githubusercontent.com/114162463/213498704-dabe9001-51ba-4a6a-a29d-188ffce96322.png)
+
+El Guru dels temes de moodle e-Guru: el tema moodle ultra sensible amb un patró multicolor ara és gratuït al directori de complements de moodle. Té funcions impressionants que seran una opció adequada per als vostres centres educatius i ofereixen potents opcions de configuració de temes d'administració.
+
+![image](https://user-images.githubusercontent.com/114162463/213497437-ba982463-ceb6-48a3-9899-1bfcec3d3acb.png)
+
+![image](https://user-images.githubusercontent.com/114162463/213497547-8aad7755-906f-411c-add6-c04ac7f55a0c.png)
+
+
+
+![image](https://user-images.githubusercontent.com/114162463/213497742-93348ddc-0d92-4ba1-ad4b-f6c317125716.png)
+
+![image](https://user-images.githubusercontent.com/114162463/213497809-87a96029-d582-4e50-b61a-17a68ccb4a91.png)
+
+
 
 # Personalització del tauler d'usuaris:
 
