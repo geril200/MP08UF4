@@ -270,4 +270,11 @@ Vigila que sigui un tema suportat per la teva versió de Moodle:
 
 ![image](https://user-images.githubusercontent.com/114162463/213505346-cf76c117-c589-4d0a-bf1b-09481494aabe.png)
 
+![image](https://user-images.githubusercontent.com/114162463/213722919-33f50492-96c8-4bbe-8e2d-18640d75e0bd.png)
+
+![image](https://user-images.githubusercontent.com/114162463/213723064-840fa216-4a3d-4806-8488-0ec521f2b775.png)
+
+
+
+
 
