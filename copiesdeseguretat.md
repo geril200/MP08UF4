@@ -75,6 +75,25 @@ L'activitat, que realitzareu per parelles, es divideix en dues pràctiques difer
 ## A1 - Backup i restauració de curs:
 
 - Fareu una còpia de seguretat del vostre curs elaborat a Moodle.
+- 
+![Selecció_144](https://user-images.githubusercontent.com/114162463/214880348-ed63e31c-0e5f-4e00-895c-0a88de49ea66.png)
+
+![Selecció_145](https://user-images.githubusercontent.com/114162463/214880351-9161326e-b738-43e8-aba4-d27ad10e647a.png)
+
+![Selecció_146](https://user-images.githubusercontent.com/114162463/214880353-a7019771-fe3f-4a9c-bc8a-e10db24079e3.png)
+
+![Selecció_147](https://user-images.githubusercontent.com/114162463/214880356-97c0ca25-3312-4985-ba9e-4fc1e4fc97be.png)
+
+![Selecció_148](https://user-images.githubusercontent.com/114162463/214880358-c6752355-91cc-4379-9510-3dad281d05b8.png)
+
+![Selecció_149](https://user-images.githubusercontent.com/114162463/214880360-179c0f74-be55-4bb5-89c9-bcdf7e4a23a0.png)
+
+![Selecció_150](https://user-images.githubusercontent.com/114162463/214880361-a59d6512-83df-4014-a160-d70f3d54e0cd.png)
+
+![Selecció_151](https://user-images.githubusercontent.com/114162463/214880363-e6994c04-4733-4ac2-8628-380879b7de78.png)
+
+![Selecció_152](https://user-images.githubusercontent.com/114162463/214880366-318463ac-8a9c-4dd2-ae3d-4259a84792ca.png)
+
 - Passareu el fitxer al server del company/a de grup.
 - Recuperareu el curs al seu Moodle.
 - Comprovareu que tot funciona correctament.
